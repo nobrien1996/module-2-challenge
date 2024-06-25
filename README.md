@@ -34,3 +34,19 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 
 THEN I am presented with a responsive layout that adapts to my viewport
+
+
+## Additional Information
+
+There was no source code for this project, I wrote it all myself- that being said, I did do some research for specifics of things on MDN, CSS-Tricks, and Stack Overflow. No code was copied word-for-word from any of these locations.
+
+All of the code in my repository is in the "develop" folder; the HTML is labeled as "index," and the CSS is labeled as "style" inside the "assets" folder in "develop."
+
+Here are some screencaps of what my site should look like when fully deployed:
+
+C:\Users\nick\bootcamp\module-2-challenge\develop\assets\site photo 1.jpg
+
+C:\Users\nick\bootcamp\module-2-challenge\develop\assets\site photo 2.jpg
+
+C:\Users\nick\bootcamp\module-2-challenge\develop\assets\site photo 3.jpg
+
