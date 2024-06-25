@@ -45,8 +45,13 @@ All of the code in my repository is in the "develop" folder; the HTML is labeled
 Here are some screencaps of what my site should look like when fully deployed:
 
 C:\Users\nick\bootcamp\module-2-challenge\develop\assets\site photo 1.jpg
+![alt text](image-1.png)
 
 C:\Users\nick\bootcamp\module-2-challenge\develop\assets\site photo 2.jpg
+![alt text](image-2.png)
 
 C:\Users\nick\bootcamp\module-2-challenge\develop\assets\site photo 3.jpg
+![alt text](image-3.png)
 
+
+Additionally, the link for my repository is https://github.com/nobrien1996/module-2-challenge
